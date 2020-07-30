@@ -2,13 +2,14 @@
   "name": "client",
   "version": "0.1.0",
   "proxy": {
-    "/auth/google":{
+    "/auth/google": {
       "target": "http://localhost:3001"
     }
   },
   "private": true,
   "dependencies": {
     "concurrently": "^3.5.1",
+    "lodash": "^4.17.19",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.0.17"
