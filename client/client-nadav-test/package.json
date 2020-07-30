@@ -11,7 +11,7 @@
     "concurrently": "^3.5.1",
     "lodash": "^4.17.19",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react-dom": "^16.13.1",
     "react-scripts": "1.0.17"
   },
   "scripts": {
